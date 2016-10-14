@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.innopolis.DeserialisationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T20:22:07" hostname="Rustam" time="0.014">
+  <properties/>
+  <testcase name="doDeser" classname="ru.innopolis.DeserialisationTest" time="0.014"/>
+  <system-out><![CDATA[2016-10-14 23:22:07,453 [INFO ][Test worker     ][             ru.innopolis.Main] - Method doDeser() from Deserialisation Class has successfully passed Unit test!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

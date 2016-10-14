@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.innopolis.CashTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-10-14T20:22:07" hostname="Rustam" time="0.031">
+  <properties/>
+  <testcase name="getCopy" classname="ru.innopolis.CashTest" time="0.027"/>
+  <testcase name="get" classname="ru.innopolis.CashTest" time="0.001"/>
+  <testcase name="put" classname="ru.innopolis.CashTest" time="0.001"/>
+  <testcase name="clear" classname="ru.innopolis.CashTest" time="0.0"/>
+  <system-out><![CDATA[2016-10-14 23:22:07,401 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getCopy() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,428 [INFO ][Test worker     ][             ru.innopolis.Main] - Method get() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,430 [INFO ][Test worker     ][             ru.innopolis.Main] - Method put() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,431 [INFO ][Test worker     ][             ru.innopolis.Main] - Method clear() from Cash has successfully passed Unit test!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

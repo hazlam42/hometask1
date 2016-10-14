@@ -1,0 +1,13 @@
+ì2016-10-14 23:22:07,401 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getCopy() from Cash has successfully passed Unit test!
+è2016-10-14 23:22:07,428 [INFO ][Test worker     ][             ru.innopolis.Main] - Method get() from Cash has successfully passed Unit test!
+è2016-10-14 23:22:07,430 [INFO ][Test worker     ][             ru.innopolis.Main] - Method put() from Cash has successfully passed Unit test!
+ë2016-10-14 23:22:07,431 [INFO ][Test worker     ][             ru.innopolis.Main] - Method clear() from Cash has successfully passed Unit test!
+§2016-10-14 23:22:07,453 [INFO ][Test worker     ][             ru.innopolis.Main] - Method doDeser() from Deserialisation Class has successfully passed Unit test!
+	arch sword castet 
+	ü2016-10-14 23:22:07,456 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getWeapons() from GameCharacter has successfully passed Unit test!
+	
+ú2016-10-14 23:22:07,457 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getType() from GameCharacter has successfully passed Unit test!
+	ù2016-10-14 23:22:07,458 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getPower() from GameCharacter has successfully passed Unit test!
+]2016-10-14 23:22:07,462 [INFO ][Test worker     ][             ru.innopolis.Main] - Success
+ü2016-10-14 23:22:07,472 [INFO ][Test worker     ][             ru.innopolis.Main] - Method doSer() from Serelisation Class has successfully passed Unit test!
+¢2016-10-14 23:22:07,473 [INFO ][Test worker     ][             ru.innopolis.Main] - Method setState() from Serelisation Class has successfully passed Unit test!

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.innopolis.GameCharacterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-10-14T20:22:07" hostname="Rustam" time="0.003">
+  <properties/>
+  <testcase name="getWeapons" classname="ru.innopolis.GameCharacterTest" time="0.001"/>
+  <testcase name="getType" classname="ru.innopolis.GameCharacterTest" time="0.0"/>
+  <testcase name="getPower" classname="ru.innopolis.GameCharacterTest" time="0.0"/>
+  <system-out><![CDATA[arch sword castet 
+2016-10-14 23:22:07,456 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getWeapons() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,457 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,458 [INFO ][Test worker     ][             ru.innopolis.Main] - Method getPower() from GameCharacter has successfully passed Unit test!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

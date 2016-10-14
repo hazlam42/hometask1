@@ -1,0 +1,43 @@
+2016-10-14 20:59:18,260 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:03:02,914 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:04:18,859 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:04:18,874 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:07:54,749 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:07:54,775 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:08:40,364 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:08:40,374 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:10:42,474 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:10:42,486 INFO [{}] Method get() has successful passed Unit test!
+2016-10-14 21:10:42,487 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:15:50,729 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:15:50,745 INFO [{}] Method get() has successful passed Unit test!
+2016-10-14 21:15:50,746 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:16:20,481 INFO [{}] Method getCopy() has successful passed Unit test!
+2016-10-14 21:16:20,492 INFO [{}] Method get() has successful passed Unit test!
+2016-10-14 21:16:20,493 INFO [{}] Method put() has successful passed Unit test!
+2016-10-14 21:16:20,494 INFO [{}] Method clear() has successful passed Unit test!
+2016-10-14 21:56:34,607 INFO [{}] Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 21:57:54,243 INFO [{}] Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 22:26:31,249 INFO [{}] Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 22:53:32,790 INFO [{}] Success
+2016-10-14 23:06:05,046 INFO [{}] Method doSer() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:06:05,057 INFO [{}] Method setState() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:11:50,328 INFO [{}] Method getPower() from Cash has successfully passed Unit test!
+2016-10-14 23:14:34,143 INFO [{}] Method getType() from Cash has successfully passed Unit test!
+2016-10-14 23:14:34,151 INFO [{}] Method getPower() from Cash has successfully passed Unit test!
+2016-10-14 23:15:32,707 INFO [{}] Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:15:32,712 INFO [{}] Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,878 INFO [{}] Method getWeapons() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,886 INFO [{}] Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,887 INFO [{}] Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,401 INFO [{}] Method getCopy() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,428 INFO [{}] Method get() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,430 INFO [{}] Method put() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,431 INFO [{}] Method clear() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,453 INFO [{}] Method doDeser() from Deserialisation Class has successfully passed Unit test!
+2016-10-14 23:22:07,456 INFO [{}] Method getWeapons() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,457 INFO [{}] Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,458 INFO [{}] Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,462 INFO [{}] Success
+2016-10-14 23:22:07,472 INFO [{}] Method doSer() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:22:07,473 INFO [{}] Method setState() from Serelisation Class has successfully passed Unit test!

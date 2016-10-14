@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.innopolis.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-10-14T20:22:07" hostname="Rustam" time="0.001">
+  <properties/>
+  <testcase name="setArray" classname="ru.innopolis.MainTest" time="0.001"/>
+  <system-out><![CDATA[2016-10-14 23:22:07,462 [INFO ][Test worker     ][             ru.innopolis.Main] - Success
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

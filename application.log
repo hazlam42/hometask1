@@ -1,0 +1,45 @@
+2016-10-13 22:42:09,548 [INFO ][main            ][                Main] - Success
+2016-10-13 23:07:22,405 [INFO ][main            ][                Main] - Success
+2016-10-14 20:59:18,260 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:03:02,914 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:04:18,859 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:04:18,874 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:07:54,749 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:07:54,775 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:08:40,364 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:08:40,374 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:10:42,474 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:10:42,486 [INFO ][main            ][                Main] - Method get() has successful passed Unit test!
+2016-10-14 21:10:42,487 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:15:50,729 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:15:50,745 [INFO ][main            ][                Main] - Method get() has successful passed Unit test!
+2016-10-14 21:15:50,746 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:16:20,481 [INFO ][main            ][                Main] - Method getCopy() has successful passed Unit test!
+2016-10-14 21:16:20,492 [INFO ][main            ][                Main] - Method get() has successful passed Unit test!
+2016-10-14 21:16:20,493 [INFO ][main            ][                Main] - Method put() has successful passed Unit test!
+2016-10-14 21:16:20,494 [INFO ][main            ][                Main] - Method clear() has successful passed Unit test!
+2016-10-14 21:56:34,607 [INFO ][main            ][                Main] - Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 21:57:54,243 [INFO ][main            ][                Main] - Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 22:26:31,249 [INFO ][main            ][                Main] - Method doDeser() from Deserialisation Class has successful passed Unit test!
+2016-10-14 22:53:32,790 [INFO ][main            ][                Main] - Success
+2016-10-14 23:06:05,046 [INFO ][main            ][                Main] - Method doSer() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:06:05,057 [INFO ][main            ][                Main] - Method setState() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:11:50,328 [INFO ][main            ][                Main] - Method getPower() from Cash has successfully passed Unit test!
+2016-10-14 23:14:34,143 [INFO ][main            ][                Main] - Method getType() from Cash has successfully passed Unit test!
+2016-10-14 23:14:34,151 [INFO ][main            ][                Main] - Method getPower() from Cash has successfully passed Unit test!
+2016-10-14 23:15:32,707 [INFO ][main            ][                Main] - Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:15:32,712 [INFO ][main            ][                Main] - Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,878 [INFO ][main            ][                Main] - Method getWeapons() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,886 [INFO ][main            ][                Main] - Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:16:07,887 [INFO ][main            ][                Main] - Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,401 [INFO ][Test worker     ][                Main] - Method getCopy() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,428 [INFO ][Test worker     ][                Main] - Method get() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,430 [INFO ][Test worker     ][                Main] - Method put() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,431 [INFO ][Test worker     ][                Main] - Method clear() from Cash has successfully passed Unit test!
+2016-10-14 23:22:07,453 [INFO ][Test worker     ][                Main] - Method doDeser() from Deserialisation Class has successfully passed Unit test!
+2016-10-14 23:22:07,456 [INFO ][Test worker     ][                Main] - Method getWeapons() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,457 [INFO ][Test worker     ][                Main] - Method getType() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,458 [INFO ][Test worker     ][                Main] - Method getPower() from GameCharacter has successfully passed Unit test!
+2016-10-14 23:22:07,462 [INFO ][Test worker     ][                Main] - Success
+2016-10-14 23:22:07,472 [INFO ][Test worker     ][                Main] - Method doSer() from Serelisation Class has successfully passed Unit test!
+2016-10-14 23:22:07,473 [INFO ][Test worker     ][                Main] - Method setState() from Serelisation Class has successfully passed Unit test!
